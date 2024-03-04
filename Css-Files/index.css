@@ -1,0 +1,24 @@
+/* Import the Specific Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+/* Now Apply it to the Overall-page */
+body {
+    font-family: 'Open Sans';
+    
+}
+.card-text,.into-para,.fdd{
+    text-align: justify;
+}
+
+
+
+
+@media screen and (min-width: 2560px) {
+    .img-fluid {
+      width: 100%;
+    }
+    
+  }
+
+
